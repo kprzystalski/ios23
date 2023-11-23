@@ -13,3 +13,19 @@
 
 
 Termin: 23.11
+
+
+**Zad 2 Lista zadań**
+
+3.0 wyświetla listę z góry określonych zadań (ArrayList)
+
+3.5 wyswietlanie obrazu na widoku zadania 
+
+4.0 usuwanie (swipe) zadań
+
+4.5 zmiana statusu zadania (w tym modyfikacja struktury)
+
+5.0 wyświetlanie statusu na liście zadań
+
+
+Termin: 7.12
