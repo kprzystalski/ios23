@@ -29,3 +29,19 @@ Termin: 23.11
 
 
 Termin: 7.12
+
+
+**Zad 3 Lista zakupów**
+
+3.0 stworzenie modelów Produktów oraz Kategorii w Core Data
+
+3.5 załadować dane przy uruchomieniu aplikacji (Fixtures)
+
+4.0 stworzyć listę produktów z podstroną opisu produktu na nowym widoku (dane z core data)
+
+4.5 opcja dodania produktu do koszyka (tabview)
+
+5.0 dodanie więcej niż jeden produkt tego samego typu do koszyka
+
+
+Termin: 21.12
