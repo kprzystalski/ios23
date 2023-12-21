@@ -60,3 +60,19 @@ Termin: 21.12
 5.0 dodawanie produktów z poziomu aplikacji mobilnej
 
 Termin: 30.12
+
+
+**Zad 5 Oauth**
+
+3.0 logowanie przez aplikację serwerową
+
+3.5 rejestracja przez aplikację serwerową
+
+4.0 logowanie via Google OAuth2
+
+4.5 logowanie via Facebook lub Github OAuth2
+
+5.0 zapisywanie danych logowania OAuth2 po stronie serwera
+
+
+Termin: 7.01
